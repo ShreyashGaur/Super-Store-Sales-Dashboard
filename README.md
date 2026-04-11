@@ -1,1 +1,1 @@
-# Interactive-Superstore-Sales-Dashboard
+# G-Store-Sales-Dashboard
